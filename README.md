@@ -12,7 +12,6 @@ Checking the activation of the sql service is done using the CheckEngine method.
 Using the appropriate namespace, you can also use the sqlserver for the Access database and use the functions of each one.
 
 	
-
 این فایل کلاس برای شما پس از تعریف رشته اتصال دیتابیس
 عملیات های اصلی CRUD (درج ،خواندن ،ویرایش و حذف اطلاعات) را به  راحتی انجام میدهد.
 
@@ -25,4 +24,3 @@ Using the appropriate namespace, you can also use the sqlserver for the Access d
 چک کردن فعال بودن سرویس sql با استفاده از متد CheckEngine انجام می شود.
 
 همچنین با استفاده از namespace مربوطه می توانید هم برای دیتابیس اکسس هم sqlserver کد بزنید و از توابع هر کدام استفاده کنید.
-
