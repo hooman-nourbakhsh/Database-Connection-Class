@@ -25,7 +25,6 @@ namespace Connection_Class
         {
             con = new SqlConnection(ConnectionString);
             con.Open();
-
         }
         public static void CloseConnection()
         {
