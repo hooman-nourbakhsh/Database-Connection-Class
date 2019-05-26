@@ -11,7 +11,7 @@ Database Backup and Restore operations are performed with specific methods.
 Checking the activation of the sql service is done using the CheckEngine method.
 Using the appropriate namespace, you can also use the sql-server for the Access database and use the functions of each one.
 
-=======================================================================================
+===========================================
 <p dir="rtl">
 این فایل کلاس برای شما پس از تعریف رشته اتصال دیتابیس
 عملیات های اصلی CRUD (درج ،خواندن ،ویرایش و حذف اطلاعات) را به  راحتی انجام میدهد.
