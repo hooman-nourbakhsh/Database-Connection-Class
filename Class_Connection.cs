@@ -22,7 +22,7 @@ namespace DataBase_Connection
 
             #region Connection
 
-            private const string DbName = @"DatabaseName"; //Enter the database name is here
+            private const string DbName = @"Database_Name"; //Enter the database name is here
             //private static string _startupPath = Application.StartupPath + "\\" + DbName;
 
             //private static SqlConnection con = new SqlConnection(@"Data Source=.;AttachDbFilename=" + StartupPath + ".mdf; Integrated Security = True");//method 1
