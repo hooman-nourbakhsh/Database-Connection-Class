@@ -22,11 +22,11 @@ namespace DataBase_Connection
 
             #region Connection
 
-            private const string DbName = @"Personal_Accounting_Db"; //Enter the database name is here
+            private const string DbName = @"DatabaseName"; //Enter the database name is here
             //private static string _startupPath = Application.StartupPath + "\\" + DbName;
 
             //private static SqlConnection con = new SqlConnection(@"Data Source=.;AttachDbFilename=" + StartupPath + ".mdf; Integrated Security = True");//method 1
-            private static readonly SqlConnection Con = new SqlConnection(@"server=.;databas=" + DbName + "; trusted_connection=true");//method 2
+            private static readonly SqlConnection Con = new SqlConnection(@"server=.;database=" + DbName + "; trusted_connection=true");//method 2
             #endregion
 
             #region Methods ConnectionState
