@@ -27,4 +27,4 @@ Using the appropriate namespace, you can also use the sql-server for the Access 
 همچنین با استفاده از namespace مربوطه می توانید هم برای دیتابیس اکسس هم sql-server کد بزنید و از توابع هر کدام استفاده کنید.
 
 </p>
- (Signature (HooMaN) Version 2.0)
+
